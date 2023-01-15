@@ -1,6 +1,9 @@
 just added this line here	
 <<<<<<< HEAD
+<<<<<<< HEAD
 i am adding another line at 19:22 PM
 adding a third line now
+=======
+>>>>>>> parent of c31195f (added another line to bounce file)
 =======
 >>>>>>> parent of c31195f (added another line to bounce file)
